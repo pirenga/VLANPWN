@@ -5,7 +5,7 @@ VLAN attacks toolkit
 
 **DoubleTagging.py** - This tool is designed to carry out a VLAN Hopping attack. As a result of injection of a frame with two 802.1Q tags, a test ICMP request will also be sent.
 
-**DTPHijacking.py** - A script for conducting a DIP Switch Spoofing/Hijacking attack. Sends a malicious DTP-Desired frame, as a result of which the attacker's car becomes a tank channel. The impact of this attack is that you can bypass the segmentation of VLAN networks and see all the traffic of VLAN networks.
+**DTPHijacking.py** - A script for conducting a DIP Switch Spoofing/Hijacking attack. Sends a malicious DTP-Desired frame, as a result of which the attacker's car becomes a trunk channel. The impact of this attack is that you can bypass the segmentation of VLAN networks and see all the traffic of VLAN networks.
 
 ```
 python3 DoubleTagging.py --help
