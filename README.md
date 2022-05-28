@@ -58,7 +58,6 @@ SS    S%S SS        SSSs. S%S SS `S.S%S SS .sS::' SS S%S S%S SS `S.S%S
   SS  ;,. SS    ;,. SS    ;,. SS    ;,. SS        SS ;,. ;,. SS    ;,.
    `:;;:' `:;;;;;:' :;    ;:' :;    ;:' `:        `:;;:'`::' :;    ;:'
 
-
 DTP Switch Hijacking tool. Become a trunk!
 
 Author: @necreas1ng, <necreas1ng@protonmail.com>
