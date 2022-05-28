@@ -46,8 +46,6 @@ options:
   ```
   
   ```
-  python3 DTPHijacking.py --help
-  
 .s    s.  .s        .s5SSSs.  .s    s.  .s5SSSs.  .s s.  s.  .s    s.
       SS.                 SS.       SS.       SS.    SS. SS.       SS.
 sS    S%S sS        sS    S%S sSs.  S%S sS    S%S sS S%S S%S sSs.  S%S
