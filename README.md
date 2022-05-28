@@ -43,7 +43,6 @@ options:
   
   ```
   python3 DoubleTagging.py --interface eth0 --nativevlan 1 --targetvlan 20 --victim 10.10.20.24 --attacker 10.10.10.54
-  
   ```
   
   ```
@@ -74,5 +73,4 @@ Example:
 
 ```
 python3 DTPHijacking.py --interface eth0
-
 ```
