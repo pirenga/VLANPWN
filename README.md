@@ -36,7 +36,6 @@ options:
                         Specity the target VLAN ID for attack
   --victim VICTIM       Specity the target IP
   --attacker ATTACKER   Specify the attacker IP
-  
   ```
   
   ```
