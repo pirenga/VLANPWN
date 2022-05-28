@@ -39,6 +39,12 @@ options:
   --victim VICTIM       Specity the target IP
   --attacker ATTACKER   Specify the attacker IP
   ```
+  Example:
+  
+  ```
+  python3 DoubleTagging.py --interface eth0 --nativevlan 1 --targetvlan 20 --victim 10.10.20.24 --attacker 10.10.10.54
+  
+  ```
   
   ```
   python3 DTPHijacking.py --help
@@ -63,4 +69,10 @@ options:
   -h, --help            show this help message and exit
   --interface INTERFACE
                         Specify your network interface
-```                        
+```
+Example:
+
+```
+python3 DTPHijacking.py --interface eth0
+
+```
